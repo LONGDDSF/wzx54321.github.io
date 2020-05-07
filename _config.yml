@@ -33,8 +33,8 @@ author_website_url: "http://shindong.xin"
 typewrite-text: 欢迎来到我的博客哦～
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
+            - company_name: DoingNow
+              company_logo: logo_doing.png
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
