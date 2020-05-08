@@ -37,7 +37,7 @@
     {{ content }}
   </div>
 
-  {% elsif site.valine_comment.enable %}
+  {% if site.valine_comment.enable %}
   <div id="vcomments">
     {% include valine.html %}
   </div>
