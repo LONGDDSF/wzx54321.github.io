@@ -10,7 +10,7 @@ urls:
   - text: Blog
     url: /blog
   - text: About Me
-      url: /about
+     url: /about
   # - text: Gallery
   #  url: /gallery
   # - text: Shop
@@ -102,7 +102,7 @@ google_analytics:
 
 # valine_comment
 valine_comment:
-  - enable: true
+    enable: true
     leancloud_appid: Bntby8P5uiNynq4lQgvE9F2J-gzGzoHsz
     leancloud_appkey: yh152WvL0R6hmDIYPafdQB2J
     placeholder: "OK GO GO GO～"
