@@ -37,14 +37,14 @@
     {{ content }}
   </div>
 
-  {%- if site.hyvor_talk_website_id -%}
+ <!-- {%- if site.hyvor_talk_website_id -%}
   <div class="comments">
     {%- include hyvor_comments.html -%}
    </div>
-    {%- endif -%}
+    {%- endif -%}-->
 
   {% elsif site.valine_comment.enable %}
-  <div id="vcomments">
+  <div id="comments">
     {% include valine.html %}
   </div>
   {%- endif -%}
