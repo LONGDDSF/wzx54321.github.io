@@ -100,6 +100,14 @@ permalink: pretty
 # google analytics
 google_analytics:
 
+# valine_comment
+valine_comment:
+  leancloud_appid: Bntby8P5uiNynq4lQgvE9F2J-gzGzoHsz
+  leancloud_appkey: yh152WvL0R6hmDIYPafdQB2J
+  placeholder: "OK GO GO GO～"
+  enable: true
+
+
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true

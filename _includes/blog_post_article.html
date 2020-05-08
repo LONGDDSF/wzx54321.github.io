@@ -43,4 +43,10 @@
    </div>
     {%- endif -%}
 
+  {% elsif site.valine_comment.enable %}
+  <div id="vcomments">
+    {% include valine.html %}
+  </div>
+  {%- endif -%}
+
 </article>
