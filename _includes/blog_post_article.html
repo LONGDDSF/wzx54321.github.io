@@ -25,7 +25,6 @@
       {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
     </div>
   </div>
-
   <div class="card-body" itemprop="articleBody">
     <img
       class="card-img-top"
@@ -36,8 +35,6 @@
     <br />
     {{ content }}
   </div>
-
-  {% if site.valine_comment.enable %}
   <div id="vcomments">
     {% include valine.html %}
   </div>
