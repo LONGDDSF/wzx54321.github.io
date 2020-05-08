@@ -10,17 +10,17 @@ urls:
   - text: Blog
     url: /blog
   - text: About Me
-     url: /about
-  # - text: Gallery
-  #  url: /gallery
-  # - text: Shop
-  #   url : /shop
-  #- text: Contact Me
-  #  url : /contact
-  #- text: Styleguide
-  #  url: /styleguide
-  #- text: Get Started
-  #  url: /get-started
+    url: /about
+# - text: Gallery
+#  url: /gallery
+# - text: Shop
+#   url : /shop
+#- text: Contact Me
+#  url : /contact
+#- text: Styleguide
+#  url: /styleguide
+#- text: Get Started
+#  url: /get-started
 
 # Edit these details
 
@@ -102,10 +102,10 @@ google_analytics:
 
 # valine_comment
 valine_comment:
-    enable: true
-    leancloud_appid: Bntby8P5uiNynq4lQgvE9F2J-gzGzoHsz
-    leancloud_appkey: yh152WvL0R6hmDIYPafdQB2J
-    placeholder: "OK GO GO GO～"
+  enable: true
+  leancloud_appid: Bntby8P5uiNynq4lQgvE9F2J-gzGzoHsz
+  leancloud_appkey: yh152WvL0R6hmDIYPafdQB2J
+  placeholder: "OK GO GO GO～"
 
 
 
